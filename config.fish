@@ -1,4 +1,4 @@
-# Custom fishell con
+# Custom fishell configuration
 #
 alias l "exa --long"
 alias la "exa --long --all --icons"
